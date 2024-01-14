@@ -1,1 +1,1 @@
-# ecom-project
+# django-project
